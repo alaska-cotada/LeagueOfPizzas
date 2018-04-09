@@ -1,0 +1,57 @@
+
+/*font-family: 'Indie Flower', cursive; */
+
+
+header {
+    width: 100%;
+    height: 130px;
+    background-color: transparent;
+    z-index: 2;
+    position: relative;
+}
+a{
+   color: #c7692f;
+   text-decoration: none;
+}
+
+#menu {
+    margin: 12px 0;
+}
+#menu li {
+    font-family: 'Indie Flower', cursive;
+        font-size: 20px;
+}
+#menu ul li {
+    list-style: none;
+    float: left;
+    margin: 0 15px;
+}
+
+section #banner img{
+top: -130px;
+position: relative;
+}
+
+section .fancy-divider {
+    margin-top: -132px;
+    position: relative;
+}
+section .fancy-dividerDois{
+    margin-top: 0px;
+}
+
+
+section .dividir{
+    margin-top:-12px;
+}
+
+#produtos-container {
+    position: relative;
+}
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.text-center {
+    text-align: center;
+}
