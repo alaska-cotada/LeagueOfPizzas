@@ -27,6 +27,43 @@ a{
     margin: 0 15px;
 }
 
+.navDois #menuDois {
+    margin: 12px 0;
+}
+
+.navDois #menuDois ul li{
+    list-style: none;
+   display: inline-block;
+    margin:-16px 25px;
+}
+
+.navDois #menuDois {
+ 
+}
+
+.navDois #menuDois ul li a {
+    font-size: 20px;
+}
+
+.pag-pizzas header {
+    background-color: #D91E18;
+    height: 152px;
+    margin: 0;
+    margin-top: -13px;
+
+}
+
+.pag-pizzas{
+    background-color: #D91E18;
+}
+
+.pag-pizzas a {
+    color: #ea8fa3;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bold;
+	text-decoration: none;
+}
+
 section #banner img{
 top: -130px;
 position: relative;
@@ -54,4 +91,69 @@ section .dividir{
 }
 .text-center {
     text-align: center;
+}
+
+.home-googlemaps {
+    margin-top: 71px;
+    margin-bottom: 71px;
+}
+
+iframe {
+ margin-top: 25px;
+}
+
+.googleMaps-edit{
+    border-width: thin;
+    border-style: solid;
+    border-color: #6C7A89;
+
+}
+
+.titulo-unidade {
+    font-family:'Gaegu', cursive; font-size: 35px;
+    text-align: center;
+    color: #663399;
+}
+
+.endereco-unidade {
+    font-family:'Gaegu', cursive; font-size: 25px;
+    text-align: center;
+    color: #947CB0;
+}
+
+ .col-full .nav-secundario {
+    content: "";
+    display: table;
+}
+
+.nav-secundario select {
+    display: inline-block;
+    max-width: 100%;
+    color: #8c8c8c;
+    font-size: .875em;
+    border: 1px solid #ebeaef;
+    vertical-align: middle;
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAUCAMAAACzvE1FAAAADFBMV…GzBYwzVXvznNWs8C58CiussPJj8h6NwgorrKRdTvuV9v16Afn0AYFOB7aYAAAAAElFTkSuQmCC) right 1em center/8px 10px no-repeat #fff;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    line-height: 1.4;
+    border-color: #ebeaef;
+    padding: .715em 2em .715em 1.6em;
+    border-radius: 50px;
+}
+
+.site-conteudo .col-full .nav-secundario form{
+    outline: 0;
+    position: relative;
+}
+
+
+
+
+
+footer {
+	weight:100%;
+	height: 100%;
+	
+	
 }
